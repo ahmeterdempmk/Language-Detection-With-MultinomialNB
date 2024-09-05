@@ -6,8 +6,6 @@
 That program detects the language that user input. It uses MultinomialNB model to make predictions. It uses Streamlit to make a local frontend app.
 
 # Installation
-[(Back to top)](#table-of-contents)
-
 This is where your installation instructions go.
 
 Follow the steps to run application in your localhost.
