@@ -10,7 +10,7 @@ This is where your installation instructions go.
 
 Follow the steps to run application in your localhost.
 
-1. Download repo or clone with the following code
+1. Download repo or clone with the following code:
 ```sh
 git clone https://github.com/ahmeterdempmk/Language-Detection-With-MultinomialNB.git
 ```
@@ -19,12 +19,12 @@ git clone https://github.com/ahmeterdempmk/Language-Detection-With-MultinomialNB
 
 3. Open repo in a code IDE or CMD
 
-4. If you open in CMD, change directory with following code
+4. If you open in CMD, change directory with following code:
 ```sh
 cd Language-Detection-With-MultinomialNB
 ```
 
-5. Run Streamlit server on app.py python code in your IDE console. If you open with CMD, write following code
+5. Run Streamlit server on app.py python code in your IDE console. If you open with CMD, write following code:
 ```sh
 streamlit run app.py
 ```
